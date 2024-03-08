@@ -1,0 +1,494 @@
+{
+  "METADATA_VERSION": 20000,
+  "allow_disabled_algorithms": false,
+  "com.airfryer.canadensis.apk": {
+    "hash": "86726e0d9fa3609c1be6e0c1e4dd2aa6e377e3d1e98d09162ed78cffd925f614",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.airfryer.canadensis",
+    "versionCode": 300,
+    "name": "99% Goose",
+    "versionName": "0.0.3",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 32,
+    "sig": "052fb8f9d1805e79246256cbf19180fd",
+    "signer": "8dd784489fe4259517743d51ac53358c49ea39a63e9b8aa8a09a4bf392586c9d",
+    "size": 3414826,
+    "apkName": "com.airfryer.canadensis.apk",
+    "added": 1709944458.452992
+  },
+  "com.airfryer.homescreen.apk": {
+    "hash": "afdad5f6dd09b198e1d972b35eb3e3d73e517409656c0e14c293ad4f100dd810",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.airfryer.homescreen.1.png",
+      "0": "com.airfryer.homescreen.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.airfryer.homescreen",
+    "versionCode": 1,
+    "name": "Air Fryer Launcher",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 28,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 4759812,
+    "apkName": "com.airfryer.homescreen.apk",
+    "icon": "com.airfryer.homescreen.1.png",
+    "added": 1709944460.108643
+  },
+  "com.airfryer.microwave.provider.apk": {
+    "hash": "50895bd14c9514ac45580e1ad28e84ebf6d217f67bec70b851fbe18ceea08541",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.airfryer.microwave.provider.1.png",
+      "0": "com.airfryer.microwave.provider.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.airfryer.microwave.provider",
+    "versionCode": 1,
+    "name": "Microwave Provider",
+    "versionName": "1.0",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 28,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 4117142,
+    "apkName": "com.airfryer.microwave.provider.apk",
+    "icon": "com.airfryer.microwave.provider.1.png",
+    "added": 1709944461.685148
+  },
+  "com.airfryer.ms.apk": {
+    "hash": "1f552c5c370cccf93947654e5ba91b5d524f933f289ef3e8ed835132741ed117",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.airfryer.ms.2.png",
+      "0": "com.airfryer.ms.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.airfryer.ms",
+    "versionCode": 2,
+    "name": "MARIO SIMULATOR\u2122",
+    "versionName": "2.4",
+    "minSdkVersion": 27,
+    "targetSdkVersion": 33,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 4534759,
+    "apkName": "com.airfryer.ms.apk",
+    "icon": "com.airfryer.ms.2.png",
+    "added": 1709944462.49165
+  },
+  "com.airfryer.wallpaperpicker.apk": {
+    "hash": "6bb4f3addba6678acd4509db5bde72e6f69c64e93b0255c4a0b3afa29006d670",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.SET_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.READ_WALLPAPER_INTERNAL",
+        null
+      ],
+      [
+        "android.permission.SET_WALLPAPER_HINTS",
+        null
+      ],
+      [
+        "android.permission.SET_WALLPAPER_DIM_AMOUNT",
+        null
+      ],
+      [
+        "android.permission.SET_WALLPAPER_COMPONENT",
+        null
+      ],
+      [
+        "android.permission.MANAGE_WALLPAPER_EFFECTS_GENERATION",
+        null
+      ],
+      [
+        "android.permission.AMBIENT_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.BIND_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.BIND_WALLPAPER_EFFECTS_GENERATION_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.airfryer.wallpaperpicker.1.png",
+      "0": "com.airfryer.wallpaperpicker.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.airfryer.wallpaperpicker",
+    "versionCode": 1,
+    "name": "Wallpaper",
+    "versionName": "1.0",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 33,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 10447348,
+    "apkName": "com.airfryer.wallpaperpicker.apk",
+    "icon": "com.airfryer.wallpaperpicker.1.png",
+    "added": 1709944463.596789
+  },
+  "com.goose.ch.provider.apk": {
+    "hash": "b3f20db3b11f06bd5ba5a053fe0a5369601db62a92e98d79f275e66b9938e0ad",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.goose.ch.provider.1.png",
+      "0": "com.goose.ch.provider.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.goose.ch.provider",
+    "versionCode": 1,
+    "name": "CornHub",
+    "versionName": "1.0",
+    "minSdkVersion": 3,
+    "targetSdkVersion": 34,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 135803,
+    "apkName": "com.goose.ch.provider.apk",
+    "icon": "com.goose.ch.provider.1.png",
+    "added": 1709944464.065136
+  },
+  "com.goose.easteregg2.apk": {
+    "hash": "ce22470b4b4dbe9adc7aafc02e2a55a1c1b362f4973d4e5e985302e81055e804",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.goose.easteregg2.1.png",
+      "0": "com.goose.easteregg2.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.goose.easteregg2",
+    "versionCode": 1,
+    "name": "Goose on a Phone",
+    "versionName": "1.0",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 32,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 4235910,
+    "apkName": "com.goose.easteregg2.apk",
+    "icon": "com.goose.easteregg2.1.png",
+    "added": 1709944465.509281
+  },
+  "com.goose.honktool.apk": {
+    "hash": "6b1787c3c5837c95fc7f047e27d66e3e4f8b745577198ba0ca9e750b02ed5389",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.goose.honktool.1.png",
+      "0": "com.goose.honktool.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.goose.honktool",
+    "versionCode": 1,
+    "name": "Portable Honk",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 28,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 246594,
+    "apkName": "com.goose.honktool.apk",
+    "icon": "com.goose.honktool.1.png",
+    "added": 1709944466.242
+  },
+  "com.goose.peroxide.apk": {
+    "hash": "8276d983ce0fd2da610de6a5df0fd8cec24a5a9a514eadff0b9be112cfe3c656",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.goose.peroxide.1.png",
+      "0": "com.goose.peroxide.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.goose.peroxide",
+    "versionCode": 1,
+    "name": "Sunstone",
+    "versionName": "1.0",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 34,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 111229,
+    "apkName": "com.goose.peroxide.apk",
+    "icon": "com.goose.peroxide.1.png",
+    "added": 1709944466.751328
+  },
+  "com.securly.pnphub.apk": {
+    "hash": "fae9ed420e6da40586d2f56ea042b48659a3a015281e66c352c466fae337782d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.securly.pnphub.1.png",
+      "0": "com.securly.pnphub.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.securly.pnphub",
+    "versionCode": 1,
+    "name": "Microwave",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 28,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 111287,
+    "apkName": "com.securly.pnphub.apk",
+    "icon": "com.securly.pnphub.1.png",
+    "added": 1709944467.0998
+  },
+  "sk.styk.martin.apkanalyzer.apk": {
+    "hash": "98fcaca4bb4ac8edc467c772f7aff8437439518e4adb0ca84a725843e07d4ab7",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        28
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "sk.styk.martin.apkanalyzer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        28
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "sk.styk.martin.apkanalyzer.56.png",
+      "480": "sk.styk.martin.apkanalyzer.56.png",
+      "320": "sk.styk.martin.apkanalyzer.56.png",
+      "240": "sk.styk.martin.apkanalyzer.56.png",
+      "160": "sk.styk.martin.apkanalyzer.56.png",
+      "0": "sk.styk.martin.apkanalyzer.56.png"
+    },
+    "antiFeatures": [],
+    "packageName": "sk.styk.martin.apkanalyzer",
+    "versionCode": 56,
+    "name": "Apk Analyzer",
+    "versionName": "3.2.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "sig": "13ab05cacd6f817175e52299ad180f03",
+    "signer": "4fbdf14afd9c5fc837edbe61bcc45f6347994ff38e4ef32629f08f13fa54fcbc",
+    "size": 6618468,
+    "apkName": "sk.styk.martin.apkanalyzer.apk",
+    "icon": "sk.styk.martin.apkanalyzer.56.png",
+    "added": 1709944468.708215
+  },
+  "wstxda.lineageicons.apk": {
+    "hash": "b89508b677b46c42789ad1e99f02301828f8da9aa4d529a0d3f8d23915bf106b",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "wstxda.lineageicons.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "wstxda.lineageicons",
+    "versionCode": 610,
+    "name": "Lineage Icons",
+    "versionName": "6.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "sig": "ce0fe93c9bbd4c76982ab6d9f09daaf9",
+    "signer": "14b1ba5b7f445653f59ccf60b1c5a96a3e7438292deaaf755fa82bc752977159",
+    "size": 4793782,
+    "apkName": "wstxda.lineageicons.apk",
+    "added": 1709944469.629554
+  }
+}
