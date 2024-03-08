@@ -1,0 +1,4 @@
+Apps
+Components
+Games
+appstore

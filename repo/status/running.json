@@ -3,6 +3,32 @@
     "/usr/bin/fdroid update",
     "--create-metadata"
   ],
-  "startTimestamp": 1709944457000,
+  "fdroiddata": {
+    "commitId": "4b30bb0c19084bc180540f7c5d83b57bc5d0af67",
+    "isDirty": true,
+    "modifiedFiles": [
+      "config.yml",
+      "metadata/com.airfryer.homescreen.yml",
+      "metadata/com.airfryer.microwave.provider.yml",
+      "metadata/com.airfryer.ms.yml",
+      "metadata/com.airfryer.wallpaperpicker.yml",
+      "metadata/com.goose.ch.provider.yml",
+      "metadata/com.goose.easteregg2.yml",
+      "metadata/com.goose.honktool.yml",
+      "metadata/com.goose.peroxide.yml",
+      "metadata/com.securly.pnphub.yml",
+      "metadata/sk.styk.martin.apkanalyzer.yml",
+      "metadata/wstxda.lineageicons.yml",
+      "repo/categories.txt",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.jar",
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json"
+    ],
+    "untrackedFiles": []
+  },
+  "startTimestamp": 1709945685000,
   "subcommand": "update"
 }
