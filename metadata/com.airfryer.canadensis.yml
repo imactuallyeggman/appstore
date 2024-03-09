@@ -1,6 +1,10 @@
-AuthorName: ''
+AntiFeatures:
+  NonFreeNet:
+    en-US: App depents on a spefic server, which no longer exists :(
+
+AuthorName: 'goose'
 Categories:
-- appstore
+- Games
 CurrentVersionCode: 2147483647
 IssueTracker: ''
 Name: 99% Goose
