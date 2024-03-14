@@ -322,7 +322,7 @@
     "added": 1709944466.242
   },
   "com.goose.peroxide.apk": {
-    "hash": "8276d983ce0fd2da610de6a5df0fd8cec24a5a9a514eadff0b9be112cfe3c656",
+    "hash": "070fdeeaea34080468712d5311f0650af5805f38884165eea25c76d42a0228fc",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -352,10 +352,10 @@
     "targetSdkVersion": 34,
     "sig": "e967c9e5fd92879f6bac96358de84d90",
     "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
-    "size": 111229,
+    "size": 4313801,
     "apkName": "com.goose.peroxide.apk",
     "icon": "com.goose.peroxide.1.png",
-    "added": 1709944466.751328
+    "added": 1710464933.016234
   },
   "com.securly.pnphub.apk": {
     "hash": "fae9ed420e6da40586d2f56ea042b48659a3a015281e66c352c466fae337782d",
@@ -490,5 +490,967 @@
     "size": 4793782,
     "apkName": "wstxda.lineageicons.apk",
     "added": 1709944469.629554
+  },
+  "MicrowaveServices.apk": {
+    "hash": "4dd810832386ce765c3cf401e402f8869881f7e7b964e28c3060fac0499d49cd",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.airfryer.microwave.1.png",
+      "0": "com.airfryer.microwave.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.airfryer.microwave",
+    "versionCode": 1,
+    "name": "Microwave Provider 7",
+    "versionName": "7.0",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 36,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 4117213,
+    "apkName": "MicrowaveServices.apk",
+    "icon": "com.airfryer.microwave.1.png",
+    "added": 1710464920.71754
+  },
+  "citra.apk": {
+    "hash": "76515bd1b599f491d1e81070231ed55130c7dcf2cb7caf78e748d6a335f514f2",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.opengles.aep"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "org.citra.citra_emu.16882357.png",
+      "480": "org.citra.citra_emu.16882357.png",
+      "320": "org.citra.citra_emu.16882357.png",
+      "240": "org.citra.citra_emu.16882357.png",
+      "160": "org.citra.citra_emu.16882357.png",
+      "0": "org.citra.citra_emu.16882357.png"
+    },
+    "antiFeatures": [],
+    "packageName": "org.citra.citra_emu",
+    "versionCode": 16882357,
+    "name": "Citra",
+    "versionName": "bed6a4f12",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 29,
+    "sig": "b5f5562bfe27f3cdd0b2e5f1f3ee0502",
+    "signer": "e42a06abee6d080a3f90fbfb9c3e69b643b3e6c40b0638c2efe61165b2000bbd",
+    "size": 2777076,
+    "apkName": "citra.apk",
+    "icon": "org.citra.citra_emu.16882357.png",
+    "added": 1710464921.360385
+  },
+  "com.android.calculator2.apk": {
+    "hash": "77848d75c70a18d26adcc6a1738d625103543c2eedff002352f90d07f1c75d11",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.android.calculator2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.android.calculator2",
+    "versionCode": 34,
+    "name": "Calculator",
+    "versionName": "14",
+    "minSdkVersion": 34,
+    "targetSdkVersion": 34,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 5421502,
+    "apkName": "com.android.calculator2.apk",
+    "added": 1710464922.616991
+  },
+  "com.android.galaxy4.apk": {
+    "hash": "f12f75816a5fedf8ca0be4ac7a2e54a1ed120eef3f031f96833f1f64075a672e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.software.live_wallpaper"
+    ],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/icon.png"
+    },
+    "icons": {
+      "320": "com.android.galaxy4.1.png",
+      "0": "com.android.galaxy4.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.android.galaxy4",
+    "versionCode": 1,
+    "name": "Black Hole",
+    "versionName": "1.0",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 14,
+    "sig": "fc512ea5e4d092eb50cf20233e432627",
+    "signer": "144e795012dc9dbaf229efa262d11b8481e02ef54136afcb786fbadc25130eb5",
+    "size": 277896,
+    "apkName": "com.android.galaxy4.apk",
+    "icon": "com.android.galaxy4.1.png",
+    "added": 1710464923.06913
+  },
+  "com.android.gallery3d.apk": {
+    "hash": "5c419fdbb0534577bfd22634a3f870baf735479cb46bac856a3cd7780f0d168d",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.MANAGE_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.READ_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.SET_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.USE_CREDENTIALS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.WRITE_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "com.android.gallery3d.permission.GALLERY_PROVIDER",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "com.android.gallery3d.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.android.gallery3d",
+    "versionCode": 40030,
+    "name": "Gallery",
+    "versionName": "1.1.40030",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 29,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 12288451,
+    "apkName": "com.android.gallery3d.apk",
+    "added": 1710464924.658624
+  },
+  "com.android.inputmethod.latin.apk": {
+    "hash": "98c42acdea02571c11a607b0801f2c9b1e57c86d65078c6ca4f40d18de10dd63",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.READ_PROFILE",
+        null
+      ],
+      [
+        "android.permission.READ_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.READ_SYNC_STATS",
+        null
+      ],
+      [
+        "android.permission.READ_USER_DICTIONARY",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.USE_CREDENTIALS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.WRITE_USER_DICTIONARY",
+        null
+      ],
+      [
+        "com.android.inputmethod.latin.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.android.inputmethod.latin",
+    "versionCode": 30,
+    "name": "Android Keyboard (AOSP)",
+    "versionName": "13",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "5d02407f9b29073beecc8bc0247f9155",
+    "signer": "76b76b0b20b4b4e630ab86e9d2817456ad59fa3c01d45e189980305bde04f59e",
+    "size": 64939535,
+    "apkName": "com.android.inputmethod.latin.apk",
+    "added": 1710464930.800333
+  },
+  "com.caf.fmradio.apk": {
+    "hash": "2b35831d9076a1820e783a5bbfcda748811f2259a6b1109c190b72c942b7a338",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH_ADMIN",
+        null
+      ],
+      [
+        "android.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.INTERACT_ACROSS_USERS_FULL",
+        null
+      ],
+      [
+        "android.permission.INTERACT_ACROSS_USERS",
+        null
+      ],
+      [
+        "android.permission.MODIFY_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.CAPTURE_AUDIO_OUTPUT",
+        null
+      ],
+      [
+        "android.permission.CAPTURE_AUDIO_HOTWORD",
+        null
+      ],
+      [
+        "android.permission.MANAGE_USERS",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.caf.fmradio",
+    "versionCode": 33,
+    "name": "FM Radio",
+    "versionName": "13",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 33,
+    "sig": "5b37169bb6e8e268d9eaa5cad6ade44a",
+    "signer": "59988fff31e2f85fbaddc5b37704be97d1c5b7db72a4fb2ed5f07b58ccf20ccf",
+    "size": 1360657,
+    "apkName": "com.caf.fmradio.apk",
+    "added": 1710464931.340301
+  },
+  "com.goose.pinball.apk": {
+    "hash": "61d6ef095494b6fad635ec3f27fadbed3e43ace7c8e733d8fecf956227d662ae",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.goose.pinball.1.png",
+      "0": "com.goose.pinball.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.goose.pinball",
+    "versionCode": 1,
+    "name": "Pug-a-Ball",
+    "versionName": "1.0",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 34,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 115324,
+    "apkName": "com.goose.pinball.apk",
+    "icon": "com.goose.pinball.1.png",
+    "added": 1710464933.526851
+  },
+  "com.goose.pinball.divisior.apk": {
+    "hash": "5dac7480c284d3624ab5b00eb2e9df78c068e5e026dc87006872e6c0604903a7",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi-v4/app_icon.png"
+    },
+    "icons": {
+      "320": "com.goose.pinball.divisior.1.png",
+      "0": "com.goose.pinball.divisior.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.goose.pinball.divisior",
+    "versionCode": 1,
+    "name": "Pug-a-Ball 2",
+    "versionName": "1.0",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 34,
+    "sig": "e967c9e5fd92879f6bac96358de84d90",
+    "signer": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
+    "size": 115326,
+    "apkName": "com.goose.pinball.divisior.apk",
+    "icon": "com.goose.pinball.divisior.1.png",
+    "added": 1710464933.970664
+  },
+  "lineageos_files.apk": {
+    "hash": "a645d502b7c7f172d65878f854a77f6b581b3a8ead9b23b7f99320f5b1742a7a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.MANAGE_DOCUMENTS",
+        null
+      ],
+      [
+        "android.permission.REMOVE_TASKS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.CACHE_CONTENT",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.CHANGE_OVERLAY_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.INTERACT_ACROSS_USERS",
+        null
+      ],
+      [
+        "android.permission.MODIFY_QUIET_MODE",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.LOG_COMPAT_CHANGE",
+        null
+      ],
+      [
+        "android.permission.READ_COMPAT_CHANGE_CONFIG",
+        null
+      ],
+      [
+        "android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND",
+        null
+      ],
+      [
+        "com.android.documentsui.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.android.documentsui",
+    "versionCode": 34,
+    "name": "Files",
+    "versionName": "14",
+    "minSdkVersion": 29,
+    "targetSdkVersion": 34,
+    "sig": "5b37169bb6e8e268d9eaa5cad6ade44a",
+    "signer": "59988fff31e2f85fbaddc5b37704be97d1c5b7db72a4fb2ed5f07b58ccf20ccf",
+    "size": 6031634,
+    "apkName": "lineageos_files.apk",
+    "added": 1710464935.008495
+  },
+  "org.lineageos.aperture.apk": {
+    "hash": "5a119740cfd593200ecbb4a23068ec620d7685e5998ca797c722276b59a853c4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        28
+      ],
+      [
+        "org.lineageos.aperture.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        28
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.camera.any"
+    ],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.aperture",
+    "versionCode": 20240216,
+    "name": "Camera",
+    "versionName": "14",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 33,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 9718497,
+    "apkName": "org.lineageos.aperture.apk",
+    "added": 1710464936.011165
+  },
+  "org.lineageos.audiofx.apk": {
+    "hash": "9f68b882ffd7ad98970d30ae6e3ec739fa06e723beacdc22d671c3a7223881aa",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CHANGE_COMPONENT_ENABLED_STATE",
+        null
+      ],
+      [
+        "android.permission.MEDIA_CONTENT_CONTROL",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_ROUTING",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "org.lineageos.audiofx.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.audiofx",
+    "versionCode": 20200,
+    "name": "AudioFX",
+    "versionName": "2.2.0",
+    "minSdkVersion": 34,
+    "targetSdkVersion": 33,
+    "sig": "5b37169bb6e8e268d9eaa5cad6ade44a",
+    "signer": "59988fff31e2f85fbaddc5b37704be97d1c5b7db72a4fb2ed5f07b58ccf20ccf",
+    "size": 5468345,
+    "apkName": "org.lineageos.audiofx.apk",
+    "added": 1710464936.512516
+  },
+  "org.lineageos.etar.apk": {
+    "hash": "00433d7d35aea550f7a376ab3aff66081ff3110e70aec0d38f75bfae4baa6c8a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.READ_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "org.lineageos.etar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.etar",
+    "versionCode": 34,
+    "name": "Calendar",
+    "versionName": "14",
+    "minSdkVersion": 34,
+    "targetSdkVersion": 34,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 6854967,
+    "apkName": "org.lineageos.etar.apk",
+    "added": 1710464937.603061
+  },
+  "org.lineageos.jelly.apk": {
+    "hash": "714fa349c7b48ccdc26116ca430f384098c7358dca5dec281216468d2bea9df0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "org.lineageos.jelly.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.jelly",
+    "versionCode": 33,
+    "name": "Browser",
+    "versionName": "13",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 33,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 4771372,
+    "apkName": "org.lineageos.jelly.apk",
+    "added": 1710464938.347054
+  },
+  "org.lineageos.recorder.apk": {
+    "hash": "5f4d8163257d8d4c773726c11b67a460d070a0ea96f8b2786d9133e780de9f2f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "org.lineageos.recorder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.recorder",
+    "versionCode": 34,
+    "name": "Recorder",
+    "versionName": "14",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 33,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 3943251,
+    "apkName": "org.lineageos.recorder.apk",
+    "added": 1710464939.070456
+  },
+  "yuzu.apk": {
+    "hash": "32db63f284cbd9602aaa39bc9a73c6e1ae01a7f79d057c076edd760bb6acd73c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "org.yuzu.yuzu_emu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.vulkan.version"
+    ],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.yuzu.yuzu_emu",
+    "versionCode": 25082497,
+    "name": "yuzu",
+    "versionName": "d590cfb9d",
+    "minSdkVersion": 30,
+    "targetSdkVersion": 34,
+    "sig": "3a4a9e0ecdc54c0bef1ab01692b78f75",
+    "signer": "5876f58ba4185a3a94fb9b9133149b2013e298cb4c868b76e043cb69452553aa",
+    "size": 2869327,
+    "apkName": "yuzu.apk",
+    "added": 1710464939.972608
   }
 }

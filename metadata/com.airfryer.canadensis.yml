@@ -2,7 +2,7 @@ AntiFeatures:
   NonFreeNet:
     en-US: App depents on a spefic server, which no longer exists :(
 
-AuthorName: 'goose'
+AuthorName: '#TeamGoose'
 Categories:
 - Games
 CurrentVersionCode: 2147483647

@@ -1,4 +1,3 @@
 Apps
 Components
 Games
-appstore
